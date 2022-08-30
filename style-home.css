@@ -1,0 +1,68 @@
+
+::-webkit-scrollbar{
+    background-color: #000000;
+    width: 12px;
+}
+::-webkit-scrollbar-thumb{
+    background-color: rgb(247, 243, 247);
+    border-radius: 5px;
+}
+
+.barbe{
+    padding-left: 30px;
+}
+
+h2{
+    text-align: center;
+    background:#cccccc;
+    color: blue;
+ 
+}
+
+p{
+    text-align: center;
+    background: #cccccc;
+}
+
+em strong{
+    color: red;
+}
+
+#mision{
+    font-size: 20px;
+}
+
+#banner{
+    width: 100%;
+}
+
+.principal{
+    background: #cccccc;
+    padding: 20px;
+}
+
+.diferenciales{
+    background: white;
+    padding: 30px;
+}
+
+h3{
+text-align: center;
+}
+
+.items{
+    font-style: italic;
+}
+
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+.j{
+    width: 50%;
+}
+
+
